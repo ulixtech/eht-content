@@ -143,3 +143,7 @@ body {
   background-color: #0f2e5d;
   color: white;
 }
+.btnlink {
+  display: flex;
+  justify-content: space-between;
+}
