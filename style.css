@@ -76,7 +76,7 @@ img.icon {
   height: 16px;
 }
 .meta {
-  font-size: 15px;
+  font-size: 14px;
   font-family: roboto;
   color: #000000b0;
   gap: 5px;
@@ -86,13 +86,14 @@ img.icon {
   align-items: center;
 }
 button.btn {
+  border-radius: 3px;
   text-transform: uppercase;
   margin-top: 9px;
   border: 0px;
-  background: black;
+  background: #233e6a;
   color: white;
   padding: 6px 10px;
-  font-size: 14px;
+  font-size: 13px;
 }
 #content {
   margin-bottom: 8px;
